@@ -1,0 +1,26 @@
+header{
+    background-color: lightgrey
+        
+}
+h1 { 
+    text-align:center; 
+    color: white;
+    text-transform:uppercase;
+}
+
+h2 {
+    text-transform:uppercase;
+    color: darkblue;
+}
+
+section {
+    background-color: dimgrey;
+}
+
+aside {
+    display: none;
+}
+a{
+    color:black;
+    padding:10px;
+}
